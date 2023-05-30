@@ -1,8 +1,8 @@
 package exercises
 
 import (
-	"data-structures-1/lists"
 	"fmt"
+	"data-structures-1/u1-golang/lists"
 )
 
 type Node struct {
